@@ -1,0 +1,13 @@
+# Ignore node modules
+node_modules/
+
+# Ignore vendor libraries
+vendor/
+assets/vendor/
+
+# Ignore source maps
+*.map
+
+# Ignore system files
+.DS_Store
+Thumbs.db
