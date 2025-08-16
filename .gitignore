@@ -1,9 +1,6 @@
 # Ignore node modules
 node_modules/
 
-# Ignore vendor libraries
-vendor/
-assets/vendor/
 
 # Ignore source maps
 *.map
